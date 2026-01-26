@@ -20,9 +20,9 @@ This repo is **research code** and currently **experimental**.
 
 We compare total description length:
 
-$\[
+$$
 L(\text{model}) + \sum_i L(\text{chart}_i \mid \text{model})
-\]$
+$$
 
 between (at minimum) two model families:
 
